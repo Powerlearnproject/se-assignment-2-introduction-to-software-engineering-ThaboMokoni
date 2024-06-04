@@ -6,13 +6,19 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: Systematic application of 
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+- requirements: gathering and documenting user needs and system requirements
+- design: creating high-level and detailed designs of the software architecture and user interface.
+- implementation: writing code and building the software accoding to the design specifications.
+- testing: conducting various tests to ensure the software meets quality standards and functional requirements
+- development: releasing the software to users or customers.
+- maintenance provididng ongoing support,updates, and enhancements to software after deployment.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
