@@ -6,7 +6,7 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering: Systematic application of 
+Define Software Engineering: Systematic application of engineering principles, methods and tools to the development and maintenance of high-quality software systems. it involves the ddesign, development, testing, deployment and maintenance of software products
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
@@ -19,6 +19,8 @@ Agile vs. Waterfall Models:
 - testing: conducting various tests to ensure the software meets quality standards and functional requirements
 - development: releasing the software to users or customers.
 - maintenance provididng ongoing support,updates, and enhancements to software after deployment.
+- agile: interative and incremental approach focused on flexibility, collaboration and respond to change.
+- waterfall: sequential approach with distinct phase (e.g.requirements, design, implementation) flowiing downwards like a waterfall.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
